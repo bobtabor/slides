@@ -286,7 +286,7 @@ body {
 .reveal .slides > section { text-align:left; }
 
 body {
-  background-image: url(..lib/images/logo.png);
+  background-image: url(../lib/images/logo.png);
   background-size: 15%;
   background-repeat: no-repeat;
   background-position: 3% 96%;
