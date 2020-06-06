@@ -161,7 +161,9 @@ body {
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15); }
 
 .reveal code {
-  font-family: monospace;
+  background: #404040;
+  padding: 2px 10px 2px 10px;
+  font-family: "Courier New", Courier, monospace;
   text-transform: none; }
 
 .reveal pre code {
